@@ -33,4 +33,7 @@ const formattedString = yamlifyObject(obj, {
 
 console.log(formattedString);
 ```
+
+## Example
+
 ![Object example](/terminal.png?raw=true "Object formatting example")
