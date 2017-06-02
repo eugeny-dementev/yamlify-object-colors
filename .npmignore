@@ -7,3 +7,4 @@ log.png
 .eslintrc.js
 .idea
 coverage.json
+test.js
