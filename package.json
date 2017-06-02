@@ -1,6 +1,6 @@
 {
   "name": "yamlify-object-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Colors preset for yamlify-object",
   "main": "index.js",
   "scripts": {
