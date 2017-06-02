@@ -19,5 +19,11 @@
     "beauty"
   ],
   "author": "Eugeny Dementev",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^1.2.0"
+  },
+  "devDependencies": {
+    "yamlify-object": "^0.2.1"
+  }
 }
