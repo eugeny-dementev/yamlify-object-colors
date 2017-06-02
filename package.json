@@ -13,7 +13,11 @@
   "keywords": [
     "yaml",
     "yamlify",
+    "stringify",
     "formatter",
+    "colors",
+    "preset",
+    "config",
     "console",
     "log",
     "beauty"
