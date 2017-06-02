@@ -1,6 +1,6 @@
 # yamlify-object-colors
 
-Colors preset for yamlify-object package
+Colors preset for [yamlify-object](https://github.com/eugeny-dementev/yamlify-object) package
 
 ## Install
 
